@@ -25,6 +25,18 @@ Operating System: Windows 10
 3) Navigate to the "Algorithmic_Trading_Project" folder and open the folder labeled "Starter_Code". Then run either "jupyter lab" or "jupyter notebook" to open up the jupyter interface with worksheet.
 4) In either of the interfaces, open and run the worksheet, "final_machine_learning_trading_bot.ipynb".
 
+**Summary Conclusion**
+
+![markdown-image](algo1.PNG)
+
+![markdown-image](algo2.PNG)
+
+
+
+![markdown-image](algo3.PNG)
+
+![markdown-image](algo4.PNG)
+
 **Contributors**
 
 Author: Michael Bejan
