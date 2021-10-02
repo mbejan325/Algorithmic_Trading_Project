@@ -27,19 +27,23 @@ Operating System: Windows 10
 
 **Summary Conclusion**
 
+***SVC***
+
 ![markdown-image](algo1.PNG)
 
 ![markdown-image](algo2.PNG)
 
 ![markdown-image](algo5.PNG)
 
-
+***ADA***
 
 ![markdown-image](algo3.PNG)
 
 ![markdown-image](algo4.PNG)
 
 ![markdown-image](algo6.PNG)
+
+Comparing the two models, SVC and ADA, prediction returns to the actual returns it can be seen that they were very similar. What can be seen is that looking at the precision, recall, and f1-score for the -1 class, but had a slightly lower recall and f1-score for the 1 class. Both models had an accuracy of 55, and differing macro and weighted averages as can be seen. Both models predictions performed below the actual returns.
 
 **Contributors**
 
