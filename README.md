@@ -31,11 +31,15 @@ Operating System: Windows 10
 
 ![markdown-image](algo2.PNG)
 
+![markdown-image](algo5.PNG)
+
 
 
 ![markdown-image](algo3.PNG)
 
 ![markdown-image](algo4.PNG)
+
+![markdown-image](algo6.PNG)
 
 **Contributors**
 
